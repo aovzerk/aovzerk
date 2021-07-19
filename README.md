@@ -7,4 +7,3 @@
 
 
 [![aovzerk's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aovzerk&theme=radical)](https://wakatime.com/@aovzerk)
-[![Top Langs](https://github-readme-stats.vercel.app/api/wakatime/?username=aovzerk&layout=compact&theme=radical)](https://wakatime.com/@aovzerk)
